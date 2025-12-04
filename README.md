@@ -36,7 +36,7 @@
   <section class="section">
     <div class="container">
       <h2>تواصل</h2>
-      <p>هتحط رقم الواتساب هنا بعدين.</p>
+      <p>01126847064.</p>
     </div>
   </section>
 
